@@ -1,0 +1,115 @@
+    {
+        "VEHICULE_TYPE": [
+            {
+                "ID": 1,
+                "NAME": "T.E.R",
+                "CAPACITY": 342,
+                "MANUFACTURER": "Bombardier & Alstom",
+                "COMPANY_ID": 1
+            },
+            {
+                "ID": 2,
+                "NAME": "Tramway",
+                "CAPACITY": 300,
+                "MANUFACTURER": "Alstom",
+                "COMPANY_ID": 2
+            },
+            {
+                "ID": 3,
+                "NAME": "Metro",
+                "CAPACITY": 224,
+                "MANUFACTURER": "Alstom",
+                "COMPANY_ID": 2
+            }
+        ],
+
+        "COMPANY": [
+            {
+                "ID": 1,
+                "NAME": "Bombardier & Alstom"
+            },
+            {
+                "ID": 2,
+                "NAME": "Alstom"
+            }
+        ],
+        
+        "VEHICULES": 
+        [
+        {
+            "ID": 1,
+            "VIN": "VF7VDA5BABA602430",
+            "VEHICLE_TYPE_ID": 1
+        },
+        {
+            "ID": 2,
+            "VIN": "VF7VDA5BABA602431",
+            "VEHICLE_TYPE_ID": 1
+        },
+        {
+            "ID": 3,
+            "VIN": "VF7VDA5BABA602432",
+            "VEHICLE_TYPE_ID": 1
+        },
+        {
+            "ID": 4,
+            "VIN": "VF7VDA5BABA602433",
+            "VEHICLE_TYPE_ID": 1
+        },
+        {
+            "ID": 5,
+            "VIN": "VF7VDA55662202434",
+            "VEHICLE_TYPE_ID": 2
+        },
+        {
+            "ID": 6,
+            "VIN": "VF7VDA55662202435",
+            "VEHICLE_TYPE_ID": 2
+        },
+        {
+            "ID": 7,
+            "VIN": "VF7VDA55662202436",
+            "VEHICLE_TYPE_ID": 2
+        },
+        {
+            "ID": 8,
+            "VIN": "VF7VDA55662202437",
+            "VEHICLE_TYPE_ID": 2
+        },
+        {
+            "ID": 9,
+            "VIN": "VF7VDA55662202438",
+            "VEHICLE_TYPE_ID": 2
+        },
+        {
+            "ID": 10,
+            "VIN": "VF7VDA55662202439",
+            "VEHICLE_TYPE_ID": 2
+        },
+        {
+            "ID": 11,
+            "VIN": "VF7VDA5566220243A",
+            "VEHICLE_TYPE_ID": 2
+        },
+        {
+            "ID": 17,
+            "VIN": "VF7VDF555AA569100",
+            "VEHICLE_TYPE_ID": 3
+        },
+        {
+            "ID": 18,
+            "VIN": "VF7VDF555AA569101",
+            "VEHICLE_TYPE_ID": 3
+        },
+        {
+            "ID": 19,
+            "VIN": "VF7VDF555AA569102",
+            "VEHICLE_TYPE_ID": 3
+        },
+        {
+            "ID": 20,
+            "VIN": "VF7VDF555AA569103",
+            "VEHICLE_TYPE_ID": 3
+        }
+    ]
+}
